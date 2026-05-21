@@ -1,3 +1,5 @@
 There is a condition to remote between local and remote repositories now.
 
 The contents to check the success whether to push to remote repository.
+
+This contents are written in Git hub remote repository to check the fetch func.
