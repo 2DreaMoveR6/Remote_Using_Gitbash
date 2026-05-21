@@ -1,0 +1,1 @@
+There is a condition to remote between local and remote repositories now.
